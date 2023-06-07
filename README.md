@@ -4,9 +4,9 @@
   <h3>Hello</h3>
   <img src="https://komarev.com/ghpvc/?username=Cocytus45&style=for-the-badge&color=blueviolet&label=🖖" alt=""/ width="60">
   <hr>
-   <p>I code to solve my niche problems. If something I made has been useful to you I'm glad I could help! :+1:</p>
+   <p>Coding to solve my niche problems. If something I made has been useful to you I'm glad I could help! :+1:</p>
    <hr>
-   <h3>Tech Stack:</h3>
+   <h3>Languages & Tools:</h3>
    <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="45"></img>
    <img src="https://www.truenas.com/wp-content/uploads/2021/09/Scale.png" width="45"></img>
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="45"></img>
