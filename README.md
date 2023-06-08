@@ -1,6 +1,7 @@
 <div align="center">
+  <br>
   <img src="assets/eating-ramen.gif" width="550"></img>
-  <br><br>
+  <br>
   <h3>Hello</h3>
   <img src="https://komarev.com/ghpvc/?username=Cocytus45&style=for-the-badge&color=blueviolet&label=🖖" alt=""/ width="60">
   <hr>
