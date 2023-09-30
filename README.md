@@ -5,7 +5,7 @@
   <h3>Hello</h3>
   <img src="https://komarev.com/ghpvc/?username=Cocytus45&style=for-the-badge&color=blueviolet&label=🖖" alt=""/ width="60">
   <hr>
-   <p>Coding to solve my niche problems. If something I made has been useful to you I'm glad I could help! :+1:</p>
+   <p>Coding to solve my niche problems. If something I made has been useful to you I'm glad I could help! :+1: <br> (Although most of my work now gets put into a private Gitea now.)</p>
    <hr>
    
    <h3>Languages & Tools:</h3>
